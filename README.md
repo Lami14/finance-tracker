@@ -32,4 +32,4 @@ Responsive and user-friendly UI
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/finance-tracker.git
+git clone https://github.com/Lami14/finance-tracker.git
